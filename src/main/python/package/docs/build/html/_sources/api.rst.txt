@@ -1,0 +1,11 @@
+API pyNotes
+===========
+
+Note
+----
+
+.. automodule:: package.api.note
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
